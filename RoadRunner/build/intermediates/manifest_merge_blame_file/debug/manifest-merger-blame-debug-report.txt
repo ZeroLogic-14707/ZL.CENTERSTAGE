@@ -1,0 +1,12 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!-- The package name here determines the package for your R class and your BuildConfig class -->
+3<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+4    package="com.acmerobotics.roadrunner" >
+5
+6    <uses-sdk android:minSdkVersion="23" />
+6-->C:\Users\Crestview Robotics\Downloads\road-runner-ftc-master\Test3_2023-2024\RoadRunner\src\main\AndroidManifest.xml
+7
+8    <application />
+8-->C:\Users\Crestview Robotics\Downloads\road-runner-ftc-master\Test3_2023-2024\RoadRunner\src\main\AndroidManifest.xml:6:5-19
+9
+10</manifest>
